@@ -1,0 +1,16 @@
+body{
+    background-color: teal;
+}
+
+
+.item{
+    display: flex;
+    height: 50px;
+    border: 1px solid black;
+    color: black;
+    width: 74px;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: 600;
+    align-items: center;
+}
