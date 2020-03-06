@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-02-components/static/css/main.32780e79.chunk.css",
-    "main.js": "/goit-react-hw-01-02-components/static/js/main.aa596102.chunk.js",
-    "main.js.map": "/goit-react-hw-01-02-components/static/js/main.aa596102.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-01-02-components/static/js/runtime-main.a3d84501.js",
-    "runtime-main.js.map": "/goit-react-hw-01-02-components/static/js/runtime-main.a3d84501.js.map",
-    "static/js/2.4e336af4.chunk.js": "/goit-react-hw-01-02-components/static/js/2.4e336af4.chunk.js",
-    "static/js/2.4e336af4.chunk.js.map": "/goit-react-hw-01-02-components/static/js/2.4e336af4.chunk.js.map",
-    "index.html": "/goit-react-hw-01-02-components/index.html",
-    "precache-manifest.35be8534502749a7f0ccb636d3362423.js": "/goit-react-hw-01-02-components/precache-manifest.35be8534502749a7f0ccb636d3362423.js",
-    "service-worker.js": "/goit-react-hw-01-02-components/service-worker.js",
-    "static/css/main.32780e79.chunk.css.map": "/goit-react-hw-01-02-components/static/css/main.32780e79.chunk.css.map",
-    "static/js/2.4e336af4.chunk.js.LICENSE.txt": "/goit-react-hw-01-02-components/static/js/2.4e336af4.chunk.js.LICENSE.txt"
+    "main.css": "/goit-react-hw-01-02-components-statistic/static/css/main.32780e79.chunk.css",
+    "main.js": "/goit-react-hw-01-02-components-statistic/static/js/main.aa596102.chunk.js",
+    "main.js.map": "/goit-react-hw-01-02-components-statistic/static/js/main.aa596102.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-02-components-statistic/static/js/runtime-main.2cc70ec3.js",
+    "runtime-main.js.map": "/goit-react-hw-01-02-components-statistic/static/js/runtime-main.2cc70ec3.js.map",
+    "static/js/2.4e336af4.chunk.js": "/goit-react-hw-01-02-components-statistic/static/js/2.4e336af4.chunk.js",
+    "static/js/2.4e336af4.chunk.js.map": "/goit-react-hw-01-02-components-statistic/static/js/2.4e336af4.chunk.js.map",
+    "index.html": "/goit-react-hw-01-02-components-statistic/index.html",
+    "precache-manifest.c75c00826568fa9950f385136c749d10.js": "/goit-react-hw-01-02-components-statistic/precache-manifest.c75c00826568fa9950f385136c749d10.js",
+    "service-worker.js": "/goit-react-hw-01-02-components-statistic/service-worker.js",
+    "static/css/main.32780e79.chunk.css.map": "/goit-react-hw-01-02-components-statistic/static/css/main.32780e79.chunk.css.map",
+    "static/js/2.4e336af4.chunk.js.LICENSE.txt": "/goit-react-hw-01-02-components-statistic/static/js/2.4e336af4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3d84501.js",
+    "static/js/runtime-main.2cc70ec3.js",
     "static/js/2.4e336af4.chunk.js",
     "static/css/main.32780e79.chunk.css",
     "static/js/main.aa596102.chunk.js"
